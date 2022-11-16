@@ -1,0 +1,8 @@
+{
+  "block.cmgtpp.example_block": "Test",
+  "itemGroup.CMGTPP": "CMGTPP",
+  "block.cmgtpp.test_block": "TestBlock",
+  "block.cmgtpp.test_block_upgrade": "TestBlockV2",
+  "item.cmgtpp.wrench": "Conveyor Wrench",
+  "item.cmgtpp.upgrade_kit": "Upgrade Kit"
+}

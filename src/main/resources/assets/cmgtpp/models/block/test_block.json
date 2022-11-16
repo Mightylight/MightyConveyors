@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "cmgtpp:block/test_block",
+    "east": "cmgtpp:block/test_block",
+    "north": "cmgtpp:block/test_block",
+    "particle": "cmgtpp:block/test_block",
+    "south": "cmgtpp:block/test_block",
+    "up": "cmgtpp:block/test_block1",
+    "west": "cmgtpp:block/test_block"
+  }
+}

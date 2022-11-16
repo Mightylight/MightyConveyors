@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "cmgtpp:block/example_block" }
+  }
+}
